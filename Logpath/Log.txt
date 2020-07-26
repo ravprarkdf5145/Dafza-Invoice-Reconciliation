@@ -1,0 +1,33 @@
+﻿ Invoice Reconciliation is created in destination folder completed,07/05/2020 14:04:40
+ Invoice Reconciliation cannot be  created in destination folder because EBS/CRM Inovice Report unavailable,07/12/2020 10:22:19
+ Invoice Reconciliation cannot be  created in destination folder because EBS/CRM Inovice Report unavailable,07/12/2020 10:53:49
+ Invoice Reconciliation cannot be  created in destination folder because EBS/CRM Inovice Report unavailable,07/12/2020 11:03:07
+ Invoice Reconciliation is created in destination folder completed,07/12/2020 11:31:28
+ Invoice Reconciliation cannot be  created in destination folder because EBS/CRM Inovice Report unavailable,07/15/2020 13:25:14
+ Invoice Reconciliation is created in destination folder completed,07/15/2020 13:55:32
+ Invoice Reconciliation is created in destination folder completed,07/16/2020 08:34:39
+ Invoice Reconciliation is created in destination folder completed,07/16/2020 08:45:21
+ Invoice Reconciliation is created in destination folder completed,07/16/2020 14:12:33
+There is no Record Exist either in CRM-Invoice Report or EBS Report -07/16/2020 17:29:24
+ Invoice Reconciliation is created in destination folder completed,07/16/2020 19:44:06
+ Invoice Reconciliation is created in destination folder completed,07/16/2020 21:04:03
+ Invoice Reconciliation cannot be  created in destination folder because EBS/CRM Inovice Report unavailable,07/18/2020 10:35:58
+ Invoice Reconciliation cannot be  created in destination folder because EBS/CRM Inovice Report unavailable,07/18/2020 10:36:59
+ Invoice Reconciliation cannot be  created in destination folder because EBS/CRM Inovice Report unavailable,07/18/2020 10:52:47
+ Invoice Reconciliation is created in destination folder completed,07/18/2020 11:17:01
+ Invoice Reconciliation is created in destination folder completed,07/18/2020 12:04:37
+ Invoice Reconciliation is created in destination folder completed,07/18/2020 12:25:45
+ Invoice Reconciliation is created in destination folder completed,07/19/2020 14:25:32
+ Invoice Reconciliation is created in destination folder completed,07/19/2020 22:00:24
+ Invoice Reconciliation is created in destination folder completed,07/19/2020 22:12:33
+ Invoice Reconciliation is created in destination folder completed,07/20/2020 07:25:56
+ Invoice Reconciliation is created in destination folder completed,07/20/2020 08:32:32
+ Invoice Reconciliation is created in destination folder completed,07/25/2020 12:25:33
+ Invoice Reconciliation is created in destination folder completed,07/25/2020 12:45:02
+ Invoice Reconciliation is created in destination folder completed,07/25/2020 13:13:05
+ Invoice Reconciliation is created in destination folder completed,07/25/2020 15:58:13
+ Invoice Reconciliation is created in destination folder completed,07/25/2020 16:07:37
+ Invoice Reconciliation is created in destination folder completed,07/25/2020 16:16:17
+ Invoice Reconciliation is created in destination folder completed,07/25/2020 18:43:30
+ Invoice Reconciliation is created in destination folder completed,07/25/2020 18:53:49
+ Invoice Reconciliation is created in destination folder completed,07/25/2020 21:13:31

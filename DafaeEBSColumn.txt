@@ -1,0 +1,43 @@
+Transaction Source
+Transaction Number
+Customer Trx ID
+Transaction Class
+Transaction Type
+Transaction Date
+Creation Date
+GL Date
+Due Date
+Document Number
+Customer Name
+Customer Number
+Payment Term
+Comments
+Line Number
+Line Description
+Memo Line ID
+Memo Line Name
+Tax Code
+Rule Start Date
+Rule End Date
+Translated Description
+Area
+Office No.
+Rate
+
+------------------------------------------------------------------
+Invoice Line CRM ID
+Customer Name
+Customer Number
+InvoiceNum
+OracleTrxNumber
+LineNumber
+LineAmount
+Line Description
+MemoLine
+VATCode
+License Number
+Area
+Area
+RatePerSq
+Office Number
+Property
